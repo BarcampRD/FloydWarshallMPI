@@ -1,0 +1,7 @@
+If you plan to run MPI programs on the EC2, it's easier to have StarCluster installed.
+Some links:  
+    - http://www.youtube.com/watch?v=vC3lJcPq1FY
+    - http://star.mit.edu/cluster/
+
+If you plan to test and debug MPI programs on your machine, OpenMPI is a great tool:
+    - http://www.open-mpi.org/
